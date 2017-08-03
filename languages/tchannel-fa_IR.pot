@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Websima <websima2@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: fa_IR\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#. Text in function
+#: includes/ch-api-settings.php:198
+msgid "All Channels and Groups will be Pre Checked?"
+msgstr "همه کانال ها بصورت پیش فرض هنگام ارسال فعال هستند"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Always Ready?"
+msgstr "همواره فعال باشد؟"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:120
+#: includes/ch-notification-metabox.php:133 includes/ch-api-settings.php:156
+msgid "Audio"
+msgstr "فایل صوتی"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:135
+msgid "Audio Performer"
+msgstr "نام خواننده"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:134
+msgid "Audio Time (mm:ss)"
+msgstr "زمان آهنگ (mm:ss)"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:136
+msgid "Audio Title"
+msgstr "نام آهنگ"
+
+#. Text in function
+#: includes/ch-api-settings.php:199
+msgid "Before updating this settings please read the Documents carefully"
+msgstr "قبل از انجام تغییرات در این بخش، آموزش کار با افزونه را به دقت مطالعه کنید."
+
+#. Text in function
+#: channeller.php:43
+msgid "Channel/Group"
+msgstr "کانال یا گروه"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:1 channeller.php:51
+msgid "Channeller"
+msgstr "کانالر"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:110
+msgid "Characters Limit: "
+msgstr "محدودیت کاراکتر: "
+
+#. Text in function
+#: channeller.php:37
+msgid "Clear Log"
+msgstr "حذف سوابق قبلی"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:116
+#: includes/ch-notification-metabox.php:124 includes/ch-api-settings.php:152
+msgid "Custom Image"
+msgstr "تصویر دلخواه"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:102
+#: includes/ch-notification-metabox.php:108 includes/ch-api-settings.php:140
+msgid "Custom Message"
+msgstr "متن دلخواه"
+
+#. Text in function
+#: channeller.php:42
+msgid "Date"
+msgstr "تاریخ"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Default Settings"
+msgstr "تنظیمات پیش فرض"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Enter Your Telegram Bot Token"
+msgstr "Token دریافتی از تلگرام برای روبات را وارد کنید."
+
+#. Text in function
+#: includes/ch-notification-metabox.php:115 includes/ch-api-settings.php:151
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:117 includes/ch-api-settings.php:153
+msgid "From Web"
+msgstr "خارج از سایت"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:89 includes/ch-api-settings.php:125
+msgid "Full URL"
+msgstr "آدرس کامل"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:61
+msgid "Future"
+msgstr "زمان بندی شده"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Get Telegram API ready"
+msgstr "تنظیمات خبرنامه روبات تلگرام"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:91 includes/ch-api-settings.php:127
+msgid "Glass Button"
+msgstr "دکمه شیشه ای"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:96
+msgid "Glass Button Text"
+msgstr "متن دکمه"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:87 includes/ch-api-settings.php:159
+msgid "Link Type"
+msgstr "لینک ارسالی"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "List of Channels"
+msgstr "لیست کانال ها"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "List of Groups"
+msgstr "لیست گروه ها"
+
+#. Text in function
+#: channeller.php:51
+msgid "Log"
+msgstr "سوابق"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Log Your Activity?"
+msgstr "سوابق ذخیره شود؟"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:113 includes/ch-api-settings.php:159
+msgid "Media"
+msgstr "رسانه"
+
+#. Text in function
+#: channeller.php:45
+msgid "Message"
+msgstr "پیام"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:99 includes/ch-api-settings.php:159
+msgid "Message Text"
+msgstr "متن پیام"
+
+#. Text in function
+#: channeller.php:37
+msgid "Messages History"
+msgstr "لیست پیام های ارسالی"
+
+#. Text in function
+#: includes/ch-api-settings.php:114
+msgid "No"
+msgstr "خیر"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:118 includes/ch-api-settings.php:154
+msgid "No Image"
+msgstr "بدون تصویر"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:92 includes/ch-api-settings.php:128
+msgid "No URL"
+msgstr "بدون لینک"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:59
+msgid "Now"
+msgstr "ارسال در لحظه"
+
+#. Text in function
+#: includes/ch-api-settings.php:166
+msgid "Please write down Channel IDs separated by \"+\" including @ (ex: @websimaca+@webasimachannel2)"
+msgstr "لطفا آی دی کانال ها را با علامت + از یکدیگر جدا کرده و حتما @ ابتدای آی دی را وارد نمایید. مانند  (ex: @websimaca+@webasimachannel2)"
+
+#. Text in function
+#: includes/ch-api-settings.php:173
+msgid "Please write down Group IDs and Names separated by \"/\" and make theme separated by + (ex: -56894843/websimaGroup+-78894843/samplegroup2)"
+msgstr "ابتدا آی دی گروه سپس یک کاراکتر / و در ادامه نام گروه را وارد نمایید، گروه ها را با کاراکتر + از یکدیگر جدا کنید. مانند  (ex: -56894843/websimaGroup+-78894843/samplegroup2)"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:101 includes/ch-api-settings.php:139
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "Send Audio"
+msgstr "ارسال فایل صوتی"
+
+#. Text in function
+#: includes/ch-api-settings.php:159
+msgid "Send Notification for "
+msgstr "قابلیت ارسال خبرنامه هنگام ایجاد  "
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "Send Photo"
+msgstr "ارسال عکس"
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "Send Text"
+msgstr "ارسال متن"
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "Send Video"
+msgstr "ارسال ویدئو"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:35
+msgid "Send to Channels."
+msgstr "ارسال به کانال ها"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:79
+msgid "Send to Groups"
+msgstr "ارسال به گروه ها"
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "Sent"
+msgstr "موفق"
+
+#. Text in function
+#: includes/ch-api-settings.php:199
+msgid "Set Default Values for Sending Message Meta Box"
+msgstr "تعیین مقادیر پیش فرض برای باکس ارسال"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:90 includes/ch-api-settings.php:126
+msgid "Short URL"
+msgstr "لینک کوتاه"
+
+#. Text in function
+#: channeller.php:44
+msgid "Status"
+msgstr "وضعیت"
+
+#. Text in function
+#: includes/ch-api-settings.php:224
+msgid "Telegram Channel Admin"
+msgstr "مدیر کانال تلگرام"
+
+#. Text in function
+#: channeller.php:41
+msgid "Type"
+msgstr "نوع پیام"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:137
+msgid "Upload Audio"
+msgstr "بارگذاری فایل صوتی"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:125
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:130
+msgid "Upload Video"
+msgstr "بارگذاری ویدئو"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:141
+msgid "Uploads file to your server "
+msgstr "فایل بر روی سرور شما آپلود میشود"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:140
+msgid "Url From the Web"
+msgstr "آدرس تصویر از اینترنت"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:119
+#: includes/ch-notification-metabox.php:128 includes/ch-api-settings.php:155
+msgid "Video"
+msgstr "ویدئو"
+
+#. Text in function
+#: includes/ch-notification-metabox.php:129
+msgid "Video Time (mm:ss)"
+msgstr "زمان ویدئو (mm:ss)"
+
+#. Text in function
+#: includes/ch-api-settings.php:113
+msgid "Yes"
+msgstr "بله"
+
+#. Text in function
+#: includes/ch-send-functions.php:1
+msgid "[Error] Have You Added Bot to Channel as admin?"
+msgstr "خطا - ربات را ادمین کانال نکرده اید؟ به راهنما در سایت وبسیما مراجعه کنید"
